@@ -1,0 +1,14 @@
+{
+  "name": "saucedemo-pom",
+  "version": "1.0.0",
+  "author": "erryza nur alif",
+
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cy:open": "cypress run --browser chrome"
+  },
+
+  "dependencies": {
+    "cypress": "^12.2.0"
+  }
+}
